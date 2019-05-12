@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Об авторе on СпортоЛюбитель</title>
-    <link>http://toparvion.run/about/</link>
+    <link>https://toparvion.run/about/</link>
     <description>Recent content in Об авторе on СпортоЛюбитель</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     
-	<atom:link href="http://toparvion.run/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://toparvion.run/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

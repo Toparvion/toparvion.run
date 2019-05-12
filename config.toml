@@ -1,5 +1,5 @@
 title = "СпортоЛюбитель"
-baseURL = "http://toparvion.run"
+baseURL = "https://toparvion.run"
 languageCode = "ru-ru"
 languageName = "Русский"
 pluralizeListTitles = false

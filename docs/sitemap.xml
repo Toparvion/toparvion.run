@@ -3,52 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://toparvion.run/articles/</loc>
+    <loc>https://toparvion.run/articles/</loc>
     <lastmod>2019-05-07T08:43:18+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://toparvion.run/articles/2019/may-trail/</loc>
+    <loc>https://toparvion.run/articles/2019/may-trail/</loc>
     <lastmod>2019-05-07T08:43:18+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://toparvion.run/</loc>
+    <loc>https://toparvion.run/</loc>
     <lastmod>2019-05-07T08:43:18+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://toparvion.run/articles/2018/swimrun/</loc>
+    <loc>https://toparvion.run/articles/2018/swimrun/</loc>
     <lastmod>2018-08-18T08:29:03+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://toparvion.run/articles/2018/rytsarev-trail/</loc>
+    <loc>https://toparvion.run/articles/2018/rytsarev-trail/</loc>
     <lastmod>2018-06-10T20:37:08+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://toparvion.run/categories/</loc>
+    <loc>https://toparvion.run/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://toparvion.run/tags/</loc>
+    <loc>https://toparvion.run/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://toparvion.run/about/</loc>
+    <loc>https://toparvion.run/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
