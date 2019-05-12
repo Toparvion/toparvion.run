@@ -3,7 +3,7 @@ baseURL = "https://toparvion.run"
 languageCode = "ru-ru"
 languageName = "Русский"
 pluralizeListTitles = false
-theme = "ananke"
+theme = "ananke-toparvion"
 enableEmoji = true
 publishDir = "docs"
 
