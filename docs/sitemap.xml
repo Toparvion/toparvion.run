@@ -3,52 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/articles/</loc>
+    <loc>http://toparvion.run/articles/</loc>
     <lastmod>2019-05-07T08:43:18+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/articles/2019/may-trail/</loc>
+    <loc>http://toparvion.run/articles/2019/may-trail/</loc>
     <lastmod>2019-05-07T08:43:18+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>http://toparvion.run/</loc>
     <lastmod>2019-05-07T08:43:18+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/articles/2018/swimrun/</loc>
+    <loc>http://toparvion.run/articles/2018/swimrun/</loc>
     <lastmod>2018-08-18T08:29:03+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/articles/2018/rytsarev-trail/</loc>
+    <loc>http://toparvion.run/articles/2018/rytsarev-trail/</loc>
     <lastmod>2018-06-10T20:37:08+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>http://toparvion.run/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>http://toparvion.run/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>http://toparvion.run/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
