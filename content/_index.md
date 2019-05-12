@@ -1,6 +1,6 @@
 ---
 title: "СпортоЛюбитель"
-featured_image: '/images/decor/running-on-aquathlon.jpg'
+featured_image: 'images/decor/running-on-aquathlon.jpg'
 description: "Заметки не профессионального физкультурника"
 ---
 
