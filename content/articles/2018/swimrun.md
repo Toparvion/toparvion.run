@@ -126,4 +126,6 @@ summary: "“Блин, я тоже хочу!” — подумал я, проч�
 
 [![img](/images/2018/swimrun/общее фото.jpg)](https://3.bp.blogspot.com/-r6ISOjGIimI/W4Xu0RMhsMI/AAAAAAAAAaU/oRKkPiAWS0EOixhZbVVlfGLcQcvyUvIYgCLcBGAs/s1600/%D0%BE%D0%B1%D1%89%D0%B5%D0%B5%2B%D1%84%D0%BE%D1%82%D0%BE.jpg)
 
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1779549590/embed/6b4ed2f9f33a601c20efcfca29962b464a375ea5'></iframe>
+
 © Фотографии: [автор](/about), [Анна Поливаха](https://vk.com/id214307380), [Анастасия Пешкова](https://vk.com/id80370465)
