@@ -9,11 +9,20 @@ publishDir = "docs"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "ru"
-SectionPagesMenu = "main"
 Paginate = 3
 googleAnalytics = ""
 disqusShortname = "toparvion-run"
 enableRobotsTXT = true
+# SectionPagesMenu = "main" 		# отключено, т.к. используется явно составленное меню
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "Об авторе"
+    title = "Страница сведений о сайте и его авторе"
+    url = "/about"
+    # weight = -110
 
 [sitemap]
   changefreq = "monthly"
