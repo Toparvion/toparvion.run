@@ -42,6 +42,6 @@ enableRobotsTXT = true
   mastodon = ""
   strava = "https://www.strava.com/athletes/toparvion"
   background_color_class = "bg-black"
-  featured_image = "/images/decor/running-on-aquathlon.jpg"
+  featured_image = "/images/decor/runner-3.jpg"
   recent_posts_number = 5
   body_classes = "athelas bg-near-white"
