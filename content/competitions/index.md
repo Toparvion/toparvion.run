@@ -8,9 +8,141 @@ featured_image: "competitions/images/_feature-image.jpg"
 
 ---
 
-# 2019
+# Планируемые старты
 
 ---
+
+## :running: ​Октобер Трейл
+
+<div style="float:right">
+  <a href="https://taigatrail.run/" target="_blank">
+  	<img src="images/october-trail-logo.png" title="Тайга Трейл (откроется в новой вкладке)"/>
+  </a>
+</div>
+
+
+
+**Дата** 13 октября 2019 г.  
+**Локация** Новосибирская область  
+**Тип** трейл  
+**Дистанция** *(не объявлена)*  
+
+&nbsp;
+
+
+
+## :running: ​Botanic Trail
+
+<div style="float:right">
+  <a href="http://www.sportsoyuznsk.ru/dir/aktualnye_starty/leto_2019/botanic_trail_2019/71-1-0-407" target="_blank">
+  	<img src="images/sport-soyuz-nsk-logo-2.png" title="СпортСоюзНск (откроется в новой вкладке)"/>
+  </a>
+</div>
+
+
+
+**Дата** 6 октября 2019 г.  
+**Локация** Новосибирск, Ботсад СО РАН  
+**Тип** трейл  
+**Дистанция** 10 км  
+&nbsp;
+
+
+
+## :running: Полумарафон им. А. Раевича
+
+<div style="float:right">
+  <a href="http://marafonnsk.ru/" target="_blank">
+  	<img src="images/rayevich-logo.png" title="Сибирский фестиваль бега (откроется в новой вкладке)"/>
+  </a>
+</div>
+
+**Дата** 7 сентября 2019 г.  
+**Локация** Новосибирск, Красный Проспект  
+**Тип** шоссейный полумарафон  
+**Дистанция** 21,1 км  
+
+&nbsp;
+
+## :construction: Гонка героев
+
+<div style="float:right">
+  <a href="https://heroleague.ru/race/" target="_blank">
+  	<img src="images/hero-race-logo.png" title="Гонка Героев (откроется в новой вкладке)"/>
+  </a>
+</div>
+
+**Дата** 10 августа 2019 г.  
+**Локация** Новосибирск, полигон НВВКУ  
+**Тип** кросс с препятствиями  
+**Участие** в составе взвода   
+**Дистанция** &approx;9 км  
+**Препятствий** &approx;35 (с учетом водных)  
+
+&nbsp;
+
+## :running::swimmer: Новосибирский акватлон
+
+<div style="float:right">
+  <a href="http://www.sportsoyuznsk.ru/dir/aktualnye_starty/leto_2019/novosibirskij_akvatlon/71-1-0-392" target="_blank">
+  	<img src="images/aquathlon-logo.png" title="СпортСоюзНск (откроется в новой вкладке)"/>
+  </a>
+</div>
+
+
+
+**Дата** 28 июля 2019 г.  
+**Локация** Новосибирск, п/о “У моря Обского”  
+**Тип** акватлон (бег+плавание)  
+**Дистанция** 2,5км + 1км + 2,5км  
+&nbsp;
+
+
+
+## :swimmer: IronMan 70.3
+
+<div style="float:right">
+  <a href="http://eu.ironman.com/ru-ru/triathlon/events/emea/ironman-70-3/astana.aspx" target="_blank">
+  	<img src="images/ironman-logo.png" title="IronMan Astana (откроется в новой вкладке)"/>
+  </a>
+</div>
+
+
+
+**Дата** 14 июля 2019 г.  
+**Локация** Казахстан, Нур-Султан (Астана)  
+**Тип** плавание  
+**Стиль** вольный  
+**Дистанция** 1,8 км    
+**Участие** эстафетная команда  
+&nbsp;
+
+
+
+## :swimmer: Кубок Клубов
+
+<div style="float:right">
+  <a href="http://www.sportsoyuznsk.ru/kubokklubov_2019" target="_blank">
+  	<img src="images/swimming-logo.png" title="СпортСоюзНск (откроется в новой вкладке)"/>
+  </a>
+</div>
+
+
+
+**Дата** 7 июля 2019 г.  
+**Локация** Новосибирск, п/о “У моря Обского”  
+**Тип** эстафетное плавание  
+**Стиль** вольный  
+**Дистанция** 1 км  
+&nbsp;
+
+&nbsp;
+
+---
+
+# Прошедшие (2019 г)
+
+------
 
 ## :running: ​Пробег памяти В. Рыцарева
 
@@ -48,7 +180,7 @@ featured_image: "competitions/images/_feature-image.jpg"
 **Локация** Новосибирск, ул. Кирова  
 **Тип** шоссейный полумарафон  
 **Дистанция** 21,1 км  
-**Результат** 1:30:53   
+**Результат** 1:30:53   
 **Место** 66 из 822 (в абсолюте)  
 **Изменение** на 2:32 лучше [предыдущего](#one-run-2018)  
 **Очерк** [здесь](/articles/2019/one-run/)
@@ -231,7 +363,7 @@ featured_image: "competitions/images/_feature-image.jpg"
 
 
 **Дата** [29 июля 2018 г.](https://www.strava.com/activities/1734638571)  
-**Локация** Новосибирск, парк “У моря Обского”  
+**Локация** Новосибирск, п/о “У моря Обского”  
 **Тип** акватлон (бег+плавание)  
 **Дистанция** 2,5км + 1км + 2,5км  
 **Результат** 0:42:24  
@@ -298,7 +430,7 @@ featured_image: "competitions/images/_feature-image.jpg"
 **Локация** Новосибирск, ул. Кирова  
 **Тип** шоссейный полумарафон  
 **Дистанция** 20,7 км  
-**Результат** 1:33:25   
+**Результат** 1:33:25   
 **Изменение** на 2:52 лучше [прошлого](#one-run-2017)
 
 &nbsp;
@@ -443,7 +575,7 @@ featured_image: "competitions/images/_feature-image.jpg"
 **Дата** 3 июля и 28 августа 2016 г.  
 **Локация** Новосибирск, полигон НВВКУ  
 **Тип** кросс с препятствиями  
-**Участие** взводом  
+**Участие** в составе взвода  
 **Дистанция** &approx;8 км  
 **Препятствий** 35 (с учетом водных)  
 **Результат** *[командный зачёт]*
