@@ -8,7 +8,7 @@ enableEmoji: true
 publishDir: docs
 MetaDataFormat: yaml
 DefaultContentLanguage: ru
-Paginate: 3
+Paginate: 5
 googleAnalytics: UA-140449579-1
 disqusShortname: toparvion-run
 enableRobotsTXT: true
@@ -20,11 +20,18 @@ menu:
       title: Страница сведений о сайте и его авторе
       url: /about
       weight: 110
+      
     - identifier: competitions
       name: Старты
       title: Календарь моих соревнований
       url: /competitions
       weight: 100
+      
+    - identifier: articles
+      name: Очерки
+      title: Очерки о стартах
+      url: /articles
+      weight: 90
       
 sitemap:
   changefreq: monthly

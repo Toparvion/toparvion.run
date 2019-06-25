@@ -1,31 +1,109 @@
 ---
 title: "Календарь стартов"
 description: "Любительские соревнования, где можно меня встретить"
-featured_image: "competitions/images/_feature-image.jpg"
+featured_image: "competitions/images/title-background.jpg"
 ---
 
 ![](images/expander.png)
 
 ---
 
-# Планируемые старты
+# Планируемые на лето’19
 
----
+*От ближайших к далёким*
 
-## :running: ​Октобер Трейл
+&nbsp;
+
+## :swimmer: Кубок Клубов
 
 <div style="float:right">
-  <a href="https://taigatrail.run/" target="_blank">
-  	<img src="images/october-trail-logo.png" title="Тайга Трейл (откроется в новой вкладке)"/>
+  <a href="http://www.sportsoyuznsk.ru/kubokklubov_2019" target="_blank">
+  	<img src="images/swimming-logo.png" title="СпортСоюзНск (откроется в новой вкладке)"/>
   </a>
 </div>
 
 
 
-**Дата** 13 октября 2019 г.  
-**Локация** Новосибирская область  
-**Тип** трейл  
-**Дистанция** *(не объявлена)*  
+**Дата** 7 июля 2019 г.  
+**Локация** Новосибирск, п/о “У моря Обского”  
+**Тип** эстафетное плавание  
+**Стиль** вольный  
+**Дистанция** 1 км  
+
+&nbsp;
+
+
+
+## :swimmer: IronMan 70.3
+
+<div style="float:right">
+  <a href="http://eu.ironman.com/ru-ru/triathlon/events/emea/ironman-70-3/astana.aspx" target="_blank">
+  	<img src="images/ironman-logo.png" title="IronMan Astana (откроется в новой вкладке)"/>
+  </a>
+</div>
+
+
+
+**Дата** 14 июля 2019 г.  
+**Локация** Казахстан, Нур-Султан (Астана)  
+**Тип** плавание  
+**Стиль** вольный  
+**Участие** эстафета  
+**Дистанция** 1,9 км    
+&nbsp;
+
+
+
+## :running::swimmer: Новосибирский акватлон
+
+<div style="float:right">
+  <a href="http://www.sportsoyuznsk.ru/dir/aktualnye_starty/leto_2019/novosibirskij_akvatlon/71-1-0-392" target="_blank">
+  	<img src="images/aquathlon-logo.png" title="СпортСоюзНск (откроется в новой вкладке)"/>
+  </a>
+</div>
+
+
+
+**Дата** 28 июля 2019 г.  
+**Локация** Новосибирск, п/о “У моря Обского”  
+**Тип** акватлон (бег+плавание)  
+**Стиль** вольный  
+**Дистанция** 2,5км + 1км + 2,5км  
+&nbsp;
+
+
+
+## &nbsp;:construction: Гонка героев
+
+<div style="float:right">
+  <a href="https://heroleague.ru/race/" target="_blank">
+  	<img src="images/hero-race-logo.png" title="Гонка Героев (откроется в новой вкладке)"/>
+  </a>
+</div>
+
+**Дата** 10 августа 2019 г.  
+**Локация** Новосибирск, полигон НВВКУ  
+**Тип** кросс с препятствиями  
+**Участие** в составе взвода   
+**Дистанция** &approx;9 км  
+**Препятствий** &approx;35 (с учетом водных)  
+
+&nbsp;
+
+
+
+## :running: Полумарафон им. А. Раевича
+
+<div style="float:right">
+  <a href="http://marafonnsk.ru/" target="_blank">
+  	<img src="images/rayevich-logo.png" title="Сибирский фестиваль бега (откроется в новой вкладке)"/>
+  </a>
+</div>
+
+**Дата** 7 сентября 2019 г.  
+**Локация** Новосибирск, Красный Проспект  
+**Тип** шоссейный полумарафон  
+**Дистанция** 21,1 км  
 
 &nbsp;
 
@@ -49,98 +127,36 @@ featured_image: "competitions/images/_feature-image.jpg"
 
 
 
-## :running: Полумарафон им. А. Раевича
+## :running: ​Октобер Трейл
 
 <div style="float:right">
-  <a href="http://marafonnsk.ru/" target="_blank">
-  	<img src="images/rayevich-logo.png" title="Сибирский фестиваль бега (откроется в новой вкладке)"/>
-  </a>
-</div>
-
-**Дата** 7 сентября 2019 г.  
-**Локация** Новосибирск, Красный Проспект  
-**Тип** шоссейный полумарафон  
-**Дистанция** 21,1 км  
-
-&nbsp;
-
-## :construction: Гонка героев
-
-<div style="float:right">
-  <a href="https://heroleague.ru/race/" target="_blank">
-  	<img src="images/hero-race-logo.png" title="Гонка Героев (откроется в новой вкладке)"/>
-  </a>
-</div>
-
-**Дата** 10 августа 2019 г.  
-**Локация** Новосибирск, полигон НВВКУ  
-**Тип** кросс с препятствиями  
-**Участие** в составе взвода   
-**Дистанция** &approx;9 км  
-**Препятствий** &approx;35 (с учетом водных)  
-
-&nbsp;
-
-## :running::swimmer: Новосибирский акватлон
-
-<div style="float:right">
-  <a href="http://www.sportsoyuznsk.ru/dir/aktualnye_starty/leto_2019/novosibirskij_akvatlon/71-1-0-392" target="_blank">
-  	<img src="images/aquathlon-logo.png" title="СпортСоюзНск (откроется в новой вкладке)"/>
+  <a href="https://taigatrail.run/" target="_blank">
+  	<img src="images/october-trail-logo.png" title="Тайга Трейл (откроется в новой вкладке)"/>
   </a>
 </div>
 
 
 
-**Дата** 28 июля 2019 г.  
-**Локация** Новосибирск, п/о “У моря Обского”  
-**Тип** акватлон (бег+плавание)  
-**Дистанция** 2,5км + 1км + 2,5км  
-&nbsp;
+**Дата** 13 октября 2019 г.  
+**Локация** Новосибирская область  
+**Тип** трейл  
+**Дистанция** *(не объявлена)*  
 
 
 
-## :swimmer: IronMan 70.3
 
-<div style="float:right">
-  <a href="http://eu.ironman.com/ru-ru/triathlon/events/emea/ironman-70-3/astana.aspx" target="_blank">
-  	<img src="images/ironman-logo.png" title="IronMan Astana (откроется в новой вкладке)"/>
-  </a>
-</div>
-
-
-
-**Дата** 14 июля 2019 г.  
-**Локация** Казахстан, Нур-Султан (Астана)  
-**Тип** плавание  
-**Стиль** вольный  
-**Дистанция** 1,8 км    
-**Участие** эстафетная команда  
-&nbsp;
-
-
-
-## :swimmer: Кубок Клубов
-
-<div style="float:right">
-  <a href="http://www.sportsoyuznsk.ru/kubokklubov_2019" target="_blank">
-  	<img src="images/swimming-logo.png" title="СпортСоюзНск (откроется в новой вкладке)"/>
-  </a>
-</div>
-
-
-
-**Дата** 7 июля 2019 г.  
-**Локация** Новосибирск, п/о “У моря Обского”  
-**Тип** эстафетное плавание  
-**Стиль** вольный  
-**Дистанция** 1 км  
-&nbsp;
 
 &nbsp;
 
----
+# Прошедшие старты
 
-# Прошедшие (2019 г)
+*От недавних к давнишним*
+
+&nbsp;
+
+------
+
+## 2019
 
 ------
 
@@ -228,7 +244,7 @@ featured_image: "competitions/images/_feature-image.jpg"
 **Стиль** коньковый  
 **Дистанция** план 30, факт 14 км  
 **Результат** 0:48:57  
-**Место** – (сошёл с дистанции)  
+**Место** - *(сошёл с дистанции)*  
 
 &nbsp;
 
@@ -304,7 +320,7 @@ featured_image: "competitions/images/_feature-image.jpg"
 
 ------
 
-# 2018
+## 2018
 
 ------
 
@@ -365,11 +381,9 @@ featured_image: "competitions/images/_feature-image.jpg"
 **Дата** [29 июля 2018 г.](https://www.strava.com/activities/1734638571)  
 **Локация** Новосибирск, п/о “У моря Обского”  
 **Тип** акватлон (бег+плавание)  
+**Стиль** вольный  
 **Дистанция** 2,5км + 1км + 2,5км  
 **Результат** 0:42:24  
-&nbsp;&nbsp;***1 Бег*** 10:11  
-&nbsp;&nbsp;***2 Плавание*** 17:45  
-&nbsp;***3 Бег*** 10:37  
 **Место** 30/59 (в абсолюте)
 
 &nbsp;
@@ -482,7 +496,7 @@ featured_image: "competitions/images/_feature-image.jpg"
 
 ------
 
-# 2017
+## 2017
 
 ------
 
@@ -542,7 +556,7 @@ featured_image: "competitions/images/_feature-image.jpg"
 
 ---
 
-# 2016
+## 2016
 
 ------
 
