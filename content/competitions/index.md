@@ -14,26 +14,6 @@ featured_image: "competitions/images/title-background.jpg"
 
 &nbsp;
 
-## :swimmer: Кубок Клубов
-
-<div style="float:right">
-  <a href="http://www.sportsoyuznsk.ru/kubokklubov_2019" target="_blank">
-  	<img src="images/swimming-logo.png" title="СпортСоюзНск (откроется в новой вкладке)"/>
-  </a>
-</div>
-
-
-
-**Дата** 7 июля 2019 г.  
-**Локация** Новосибирск, п/о “У моря Обского”  
-**Тип** эстафетное плавание  
-**Стиль** вольный  
-**Дистанция** 1 км  
-
-&nbsp;
-
-
-
 ## :swimmer: IronMan 70.3
 
 <div style="float:right">
@@ -159,6 +139,28 @@ featured_image: "competitions/images/title-background.jpg"
 ## 2019
 
 ------
+
+## :swimmer: Кубок Клубов
+
+<div style="float:right">
+  <a href="http://www.sportsoyuznsk.ru/kubokklubov_2019" target="_blank">
+  	<img src="images/swimming-logo.png" title="СпортСоюзНск (откроется в новой вкладке)"/>
+  </a>
+</div>
+
+
+
+**Дата** [7 июля 2019 г.](https://www.strava.com/activities/2510799247)  
+**Локация** Новосибирск, п/о “У моря Обского”  
+**Тип** эстафетное плавание  
+**Стиль** вольный  
+**Дистанция** 1 км   
+**Результат** 00:20:56  
+**Очерк** [здесь](/articles/2019/open-swim-cup/)
+
+&nbsp;
+
+
 
 ## :running: ​Пробег памяти В. Рыцарева
 
