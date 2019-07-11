@@ -2,7 +2,7 @@
 date: 2018-08-18T08:29:03+07:00
 description: "Уматный коктейль из плавания и бега"
 featured_image: "articles/2018/swimrun/images/title-image.jpg"
-tags: ["бег", "кросс", "плавание"]
+tags: ["бег", "кросс", "плавание", "открытая-вода"]
 title: "SwimRun Atlant 2018"
 summary: "“Блин, я тоже хочу!” — подумал я, прочтя год назад заметку Игоря Родионова о его участии в SwimRun — спортивном соревновании, где участники преодолевают смешанную серию беговых и плавательных этапов на пересеченной местности безо всяких транзитных зон, т. е. и бегают, и плавают в одной экипировке."
 show_reading_time: true
@@ -126,5 +126,4 @@ show_reading_time: true
 ![img](images/общее фото.jpg)
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1779549590/embed/6b4ed2f9f33a601c20efcfca29962b464a375ea5'></iframe>
-
 © Фотографии: [автор](/about), [Анна Поливаха](https://vk.com/id214307380), [Анастасия Пешкова](https://vk.com/id80370465)
