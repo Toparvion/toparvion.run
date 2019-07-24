@@ -13,23 +13,6 @@ featured_image: "competitions/images/title-background.jpg"
 *От ближайших к далёким*
 
 &nbsp;
-
-## :swimmer: IronMan 70.3
-
-<div style="float:right">
-  <a href="http://eu.ironman.com/ru-ru/triathlon/events/emea/ironman-70-3/astana.aspx" target="_blank">
-  	<img src="images/ironman-logo.png" title="IronMan Astana (откроется в новой вкладке)"/>
-  </a>
-</div>
-
-
-
-**Дата** 14 июля 2019 г.  
-**Локация** Казахстан, Нур-Султан (Астана)  
-**Тип** плавание  
-**Стиль** вольный  
-**Участие** эстафета  
-**Дистанция** 1,9 км    
 &nbsp;
 
 
@@ -37,7 +20,7 @@ featured_image: "competitions/images/title-background.jpg"
 ## :running::swimmer: Новосибирский акватлон
 
 <div style="float:right">
-  <a href="http://www.sportsoyuznsk.ru/dir/aktualnye_starty/leto_2019/novosibirskij_akvatlon/71-1-0-392" target="_blank">
+  <a href="http://www.sportsoyuznsk.ru/akvatlonnsk_2019" target="_blank">
   	<img src="images/aquathlon-logo.png" title="СпортСоюзНск (откроется в новой вкладке)"/>
   </a>
 </div>
@@ -53,21 +36,18 @@ featured_image: "competitions/images/title-background.jpg"
 
 
 
-## &nbsp;:construction: Гонка героев
+## &nbsp;:running: Кросс физкультурника
 
 <div style="float:right">
-  <a href="https://heroleague.ru/race/" target="_blank">
-  	<img src="images/hero-race-logo.png" title="Гонка Героев (откроется в новой вкладке)"/>
+  <a href="http://www.sportsoyuznsk.ru/kross_fizkulturnika_2019" target="_blank">
+  	<img src="images/sport-soyuz-nsk-logo.png" title="СпортСоюз (откроется в новой вкладке)"/>
   </a>
 </div>
 
 **Дата** 10 августа 2019 г.  
-**Локация** Новосибирск, полигон НВВКУ  
-**Тип** кросс с препятствиями  
-**Участие** в составе взвода   
-**Дистанция** &approx;9 км  
-**Препятствий** &approx;35 (с учетом водных)  
-
+**Локация** Новосибирск, “Красное знамя”  
+**Тип** кросс-трейл  
+**Дистанция** 6 км  
 &nbsp;
 
 
@@ -139,6 +119,29 @@ featured_image: "competitions/images/title-background.jpg"
 ## 2019
 
 ------
+
+## :swimmer: IronMan 70.3
+
+<div style="float:right">
+  <a href="http://eu.ironman.com/ru-ru/triathlon/events/emea/ironman-70-3/astana.aspx" target="_blank">
+  	<img src="images/ironman-logo.png" title="IronMan Astana (откроется в новой вкладке)"/>
+  </a>
+</div>
+
+
+
+**Дата** [14 июля 2019 г.](https://www.strava.com/activities/2529995102)  
+**Локация** Казахстан, Нур-Султан (Астана)  
+**Тип** плавание  
+**Стиль** вольный  
+**Участие** эстафета  
+**Дистанция** 1,9 км    
+**Результат** 00:39:16  
+**Место** 27 из 46 (командный зачет)
+
+&nbsp;
+
+
 
 ## :swimmer: Кубок Клубов
 
