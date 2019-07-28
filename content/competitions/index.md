@@ -17,23 +17,6 @@ featured_image: "competitions/images/title-background.jpg"
 
 
 
-## :running::swimmer: Новосибирский акватлон
-
-<div style="float:right">
-  <a href="http://www.sportsoyuznsk.ru/akvatlonnsk_2019" target="_blank">
-  	<img src="images/aquathlon-logo.png" title="СпортСоюзНск (откроется в новой вкладке)"/>
-  </a>
-</div>
-
-
-
-**Дата** 28 июля 2019 г.  
-**Локация** Новосибирск, п/о “У моря Обского”  
-**Тип** акватлон (бег+плавание)  
-**Стиль** вольный  
-**Дистанция** 2,5км + 1км + 2,5км  
-&nbsp;
-
 
 
 ## &nbsp;:running: Кросс физкультурника
@@ -118,7 +101,30 @@ featured_image: "competitions/images/title-background.jpg"
 
 ## 2019
 
-------
+---
+
+## :running::swimmer: Новосибирский акватлон
+
+<div style="float:right">
+  <a href="http://www.sportsoyuznsk.ru/akvatlonnsk_2019" target="_blank">
+  	<img src="images/aquathlon-logo.png" title="СпортСоюзНск (откроется в новой вкладке)"/>
+  </a>
+</div>
+
+
+
+**Дата** [28 июля 2019 г.](https://www.strava.com/activities/2568885275)  
+**Локация** Новосибирск, п/о “У моря Обского”  
+**Тип** акватлон (бег+плавание)  
+**Стиль** вольный  
+**Дистанция** 2,5км + 1км + 2,5км  
+**Результат** 0:46:27   
+**Место** 16/36 (в абсолюте)  
+**Изменение** на 4:03 хуже [предыдущего](#aquathlon2018)
+
+&nbsp;
+
+
 
 ## :swimmer: IronMan 70.3
 
@@ -374,7 +380,7 @@ featured_image: "competitions/images/title-background.jpg"
 
 
 
-## :running::swimmer: Новосибирский акватлон
+## :running::swimmer: Новосибирский акватлон {#aquathlon2018}
 
 <div style="float:right">
   <a href="http://www.sportsoyuznsk.ru/novosibirsk_akvatlon" target="_blank">
@@ -444,7 +450,6 @@ featured_image: "competitions/images/title-background.jpg"
   	<img src="images/one-run-logo.png" title="ЗаБег.РФ (откроется в новой вкладке)"/>
   </a>
 </div>
-
 
 **Дата** [20 мая 2018 г.](https://www.strava.com/activities/1583397255)  
 **Локация** Новосибирск, ул. Кирова  
