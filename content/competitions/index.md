@@ -12,28 +12,7 @@ featured_image: "competitions/images/title-background.jpg"
 
 *От ближайших к далёким*
 
-&nbsp;
-&nbsp;
-
-
-
-
-
-## &nbsp;:running: Кросс физкультурника
-
-<div style="float:right">
-  <a href="http://www.sportsoyuznsk.ru/kross_fizkulturnika_2019" target="_blank">
-  	<img src="images/sport-soyuz-nsk-logo.png" title="СпортСоюз (откроется в новой вкладке)"/>
-  </a>
-</div>
-
-**Дата** 10 августа 2019 г.  
-**Локация** Новосибирск, “Красное знамя”  
-**Тип** кросс-трейл  
-**Дистанция** 6 км  
-&nbsp;
-
-
+## &nbsp;
 
 ## :running: Полумарафон им. А. Раевича
 
@@ -102,6 +81,27 @@ featured_image: "competitions/images/title-background.jpg"
 ## 2019
 
 ---
+
+## :running: Кросс физкультурника
+
+<div style="float:right">
+  <a href="http://www.sportsoyuznsk.ru/kross_fizkulturnika_2019" target="_blank">
+  	<img src="images/sport-soyuz-nsk-logo.png" title="СпортСоюз (откроется в новой вкладке)"/>
+  </a>
+</div>
+
+**Дата** [10 августа 2019 г.](https://www.strava.com/activities/2605740636)  
+**Локация** Новосибирск, “Красное знамя”  
+**Тип** кросс-трейл  
+**Дистанция** 18 км  
+**Высота** 340 м  
+**Результат** 1:29:02  
+**Место** 48/143 (в абсолюте)  
+
+&nbsp;
+&nbsp;
+
+
 
 ## :running::swimmer: Новосибирский акватлон
 
