@@ -4,22 +4,41 @@
   
   <url>
     <loc>https://toparvion.run/</loc>
-    <lastmod>2019-07-11T08:43:18+07:00</lastmod>
+    <lastmod>2019-09-06T02:00:00+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://toparvion.run/tags/</loc>
-    <lastmod>2019-07-11T08:43:18+07:00</lastmod>
+    <lastmod>2019-09-06T02:00:00+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://toparvion.run/articles/</loc>
-    <lastmod>2019-07-11T08:43:18+07:00</lastmod>
+    <loc>https://toparvion.run/articles/2019/altai-routes/</loc>
+    <lastmod>2019-09-06T02:00:00+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://toparvion.run/articles/</loc>
+    <lastmod>2019-09-06T02:00:00+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://toparvion.run/tags/%D0%B1%D0%B5%D0%B3/</loc>
+    <lastmod>2019-09-06T02:00:00+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://toparvion.run/tags/%D0%BA%D1%80%D0%BE%D1%81%D1%81/</loc>
+    <lastmod>2019-09-06T02:00:00+07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -49,12 +68,6 @@
   </url>
   
   <url>
-    <loc>https://toparvion.run/tags/%D0%B1%D0%B5%D0%B3/</loc>
-    <lastmod>2019-05-25T08:00:00+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://toparvion.run/tags/%D0%BF%D0%BE%D0%BB%D1%83%D0%BC%D0%B0%D1%80%D0%B0%D1%84%D0%BE%D0%BD/</loc>
     <lastmod>2019-05-25T08:00:00+07:00</lastmod>
     <priority>0</priority>
@@ -78,12 +91,6 @@
     <lastmod>2018-08-18T08:29:03+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://toparvion.run/tags/%D0%BA%D1%80%D0%BE%D1%81%D1%81/</loc>
-    <lastmod>2018-08-18T08:29:03+07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
