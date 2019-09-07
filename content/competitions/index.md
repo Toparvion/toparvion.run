@@ -14,23 +14,6 @@ featured_image: "competitions/images/title-background.jpg"
 
 ## &nbsp;
 
-## :running: Полумарафон им. А. Раевича
-
-<div style="float:right">
-  <a href="http://marafonnsk.ru/" target="_blank">
-  	<img src="images/rayevich-logo.png" title="Сибирский фестиваль бега (откроется в новой вкладке)"/>
-  </a>
-</div>
-
-**Дата** 7 сентября 2019 г.  
-**Локация** Новосибирск, Красный Проспект  
-**Тип** шоссейный полумарафон  
-**Дистанция** 21,1 км  
-
-&nbsp;
-
-
-
 ## :running: ​Botanic Trail
 
 <div style="float:right">
@@ -81,6 +64,28 @@ featured_image: "competitions/images/title-background.jpg"
 ## 2019
 
 ---
+
+## :running: XXII Полумарафон им. А. Раевича {#raevich-2019}
+
+<div style="float:right">
+  <a href="http://marafonnsk.ru/" target="_blank">
+  	<img src="images/rayevich-logo.png" title="Сибирский фестиваль бега (откроется в новой вкладке)"/>
+  </a>
+</div>
+
+**Дата** [7 сентября 2019 г.](https://www.strava.com/activities/2686434693/overview)  
+**Локация** Новосибирск, Красный Проспект  
+**Тип** шоссейный полумарафон  
+**Дистанция** 21,1 км  
+**Цель** 1:30:00 и быстрее    
+**Время** 1:29:06  
+**Изменение** на 0:12:31 лучше [предыдущего](#raevich-2016)  
+**Место**  98 из 1296 (в абсолюте)  
+**Очерк** [здесь](/articles/2019/altai-routes/) (об одном этапе подготовки)
+
+&nbsp;
+
+## 
 
 ## :running: Кросс физкультурника
 
@@ -571,7 +576,7 @@ featured_image: "competitions/images/title-background.jpg"
 
 ------
 
-## :running: Полумарафон им. А. Раевича
+## :running: XIX Полумарафон им. А. Раевича {#raevich-2016}
 
 <div style="float:right">
   <a href="http://marafonnsk.ru/" target="_blank">
