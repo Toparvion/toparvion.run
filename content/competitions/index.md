@@ -14,28 +14,10 @@ featured_image: "competitions/images/title-background.jpg"
 
 ## &nbsp;
 
-## :running: ​Botanic Trail
-
-<div style="float:right">
-  <a href="http://www.sportsoyuznsk.ru/dir/aktualnye_starty/leto_2019/botanic_trail_2019/71-1-0-407" target="_blank">
-  	<img src="images/sport-soyuz-nsk-logo-2.png" title="СпортСоюзНск (откроется в новой вкладке)"/>
-  </a>
-</div>
-
-
-
-**Дата** 6 октября 2019 г.  
-**Локация** Новосибирск, Ботсад СО РАН  
-**Тип** трейл  
-**Дистанция** 10 км  
-&nbsp;
-
-
-
 ## :running: ​Октобер Трейл
 
 <div style="float:right">
-  <a href="https://taigatrail.run/" target="_blank">
+  <a href="https://taigatrail.run/octobertrail" target="_blank">
   	<img src="images/october-trail-logo.png" title="Тайга Трейл (откроется в новой вкладке)"/>
   </a>
 </div>
@@ -43,9 +25,9 @@ featured_image: "competitions/images/title-background.jpg"
 
 
 **Дата** 13 октября 2019 г.  
-**Локация** Новосибирская область  
+**Локация** Н-ск, Ключ-Камышенское плато  
 **Тип** трейл  
-**Дистанция** *(не объявлена)*  
+**Дистанция** 10 км
 
 
 
@@ -64,6 +46,28 @@ featured_image: "competitions/images/title-background.jpg"
 ## 2019
 
 ---
+
+## :running: ​Botanic Trail
+
+<div style="float:right">
+  <a href="http://www.sportsoyuznsk.ru/dir/aktualnye_starty/leto_2019/botanic_trail_2019/71-1-0-407" target="_blank">
+  	<img src="images/sport-soyuz-nsk-logo-2.png" title="СпортСоюзНск (откроется в новой вкладке)"/>
+  </a>
+</div>
+
+
+
+**Дата** [6 октября 2019 г.](https://www.strava.com/activities/2766294683)  
+**Локация** Новосибирск, Ботсад СО РАН  
+**Тип** трейл  
+**Дистанция** 10 км  
+**Подъём** 180 м  
+**Место** 30/184 (в абсолюте)  
+**Время** 0:51:33,1&nbsp;
+
+&nbsp;
+
+
 
 ## :running: XXII Полумарафон им. А. Раевича {#raevich-2019}
 
@@ -85,7 +89,7 @@ featured_image: "competitions/images/title-background.jpg"
 
 &nbsp;
 
-## 
+
 
 ## :running: Кросс физкультурника
 
@@ -99,7 +103,7 @@ featured_image: "competitions/images/title-background.jpg"
 **Локация** Новосибирск, “Красное знамя”  
 **Тип** кросс-трейл  
 **Дистанция** 18 км  
-**Высота** 340 м  
+**Подъём** 340 м  
 **Результат** 1:29:02  
 **Место** 48/143 (в абсолюте)  
 
