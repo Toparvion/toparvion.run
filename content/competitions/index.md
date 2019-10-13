@@ -8,33 +8,6 @@ featured_image: "competitions/images/title-background.jpg"
 
 ---
 
-# Планируемые на лето’19
-
-*От ближайших к далёким*
-
-## &nbsp;
-
-## :running: ​Октобер Трейл
-
-<div style="float:right">
-  <a href="https://taigatrail.run/octobertrail" target="_blank">
-  	<img src="images/october-trail-logo.png" title="Тайга Трейл (откроется в новой вкладке)"/>
-  </a>
-</div>
-
-
-
-**Дата** 13 октября 2019 г.  
-**Локация** Н-ск, Ключ-Камышенское плато  
-**Тип** трейл  
-**Дистанция** 10 км
-
-
-
-
-
-&nbsp;
-
 # Прошедшие старты
 
 *От недавних к давнишним*
@@ -46,6 +19,30 @@ featured_image: "competitions/images/title-background.jpg"
 ## 2019
 
 ---
+
+## :running: ​October Trail
+
+<div style="float:right">
+  <a href="https://taigatrail.run/octobertrail" target="_blank">
+  	<img src="images/october-trail-logo.png" title="Тайга Трейл (откроется в новой вкладке)"/>
+  </a>
+</div>
+
+
+
+**Дата** [13 октября 2019 г.](https://www.strava.com/activities/2784315353)  
+**Локация** Н-ск, Ключ-Камышенское плато  
+**Тип** трейл  
+**Дистанция** 10 км  
+**Подъём** 370 м  
+**Место** 11 из 213 в абсолюте, 6 в группе  
+**Время** 0:57:16  
+
+&nbsp;
+
+
+
+
 
 ## :running: ​Botanic Trail
 
