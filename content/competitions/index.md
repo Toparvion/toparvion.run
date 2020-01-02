@@ -12,6 +12,16 @@ featured_image: "competitions/images/title-background.jpg"
 
 *От недавних к давнишним*
 
+&nbsp;&nbsp;
+
+------
+
+## 2020
+
+---
+
+Календарь стартов на этот год ещё не сформирован, но когда будет – поделюсь :wink:
+
 &nbsp;
 
 ------
@@ -19,6 +29,49 @@ featured_image: "competitions/images/title-background.jpg"
 ## 2019
 
 ---
+
+## :running: Новогодний забег
+
+<div style="float:right">
+  <a href="https://vk.com/herorace_nsk?w=wall-121913372_6115" target="_blank">
+  	<img src="images/hero-race-logo.png" title="ВКонтакте (откроется в новой вкладке)"/>
+  </a>
+</div>
+
+
+
+**Дата** [22 декабря 2019 г.](https://www.strava.com/activities/2948234482)  
+**Локация** Новосибирск, Заельцовский парк  
+**Тип** эстафета с накоплением участников    
+**Дистанция** 10 км  
+**Место** 9 из 34 в командном зачёте  
+**Время** 0:47:51  
+
+&nbsp;
+
+
+
+## :ski: 58-ые гонки памяти А. Тульского
+
+<div style="float:right">
+  <a href="http://www.sportsoyuznsk.ru/dir/bolshoj_kubok_zima/otkrytoe_pervenstvo_goroda_novosibirska_58_lyzhnye_gonki_pamjati_a_tulskogo/76-1-0-484" target="_blank">
+  	<img src="images/sport-soyuz-nsk-logo-2.png" title="Страница старта (откроется в новой вкладке)"/>
+  </a>
+</div>
+
+
+
+**Дата** [15 декабря 2019 г.](https://www.strava.com/activities/2933549932)  
+**Локация** Новосибирск, л/б А. Тульского  
+**Тип** гонка в личном зачете    
+**Стиль** коньковый  
+**Дистанция** 7,5 км  
+**Место** 102 из 127 в абсолюте  
+**Время** 0:28:44  
+
+&nbsp;
+
+
 
 ## :running: ​October Trail
 
