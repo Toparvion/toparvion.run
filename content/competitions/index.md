@@ -6,13 +6,9 @@ featured_image: "competitions/images/title-background.jpg"
 
 ![](images/expander.png)
 
----
+# Будущие старты
 
-# Прошедшие старты
 
-*От недавних к давнишним*
-
-&nbsp;&nbsp;
 
 ------
 
@@ -23,6 +19,14 @@ featured_image: "competitions/images/title-background.jpg"
 Календарь стартов на этот год ещё не сформирован, но когда будет – поделюсь :wink:
 
 &nbsp;
+
+# Прошедшие старты
+
+*От недавних к давнишним*
+
+&nbsp;
+
+
 
 ------
 
