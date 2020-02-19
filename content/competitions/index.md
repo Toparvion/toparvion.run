@@ -30,6 +30,56 @@ featured_image: "competitions/images/title-background.jpg"
 
 ------
 
+## 2020
+
+---
+
+## :ski: Эстафета ИЯФ
+
+<div style="float:right">
+  <a href="http://www.sportsoyuznsk.ru/dir/bolshoj_kubok_zima/ehstafeta_ijaf/76-1-0-505" target="_blank">
+  	<img src="images/inp-logo.png" title="Страница старта (откроется в новой вкладке)"/>
+  </a>
+</div>
+
+
+
+**Дата** [16 февраля 2020 г.](https://www.strava.com/activities/3104205920)  
+**Локация** Новосибирск, л/б А. Тульского  
+**Тип** эстафета, 4 этапа     
+**Стиль** коньковый  
+**Дистанция** 5 км  
+**Место** 28 из 46 на этапе в личном зачёте  
+**Время** 0:16:15,7  
+
+&nbsp;
+
+
+
+## :ski: Вечерняя эстафета
+
+<div style="float:right">
+  <a href="http://www.sportsoyuznsk.ru/dir/bolshoj_kubok_zima/vechernjaja_ehstafeta_posvjashhennaja_dnju_zimnikh_vidov_sporta/76-1-0-502" target="_blank">
+  	<img src="images/sport-soyuz-nsk-logo-2.png" title="Страница старта (откроется в новой вкладке)"/>
+  </a>
+</div>
+
+
+
+**Дата** [13 февраля 2020 г.](https://www.strava.com/activities/3096206168)  
+**Локация** Новосибирск, “Красное Знамя”  
+**Тип** эстафета, 3 этапа     
+**Стиль** коньковый  
+**Дистанция** 2,2 км  
+**Место** 107 из 189 в личном зачёте  
+**Время** 0:07:25  
+
+&nbsp;
+
+
+
+------
+
 ## 2019
 
 ---

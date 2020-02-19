@@ -12,6 +12,10 @@ Paginate: 5
 googleAnalytics: UA-140449579-1
 disqusShortname: toparvion-run
 enableRobotsTXT: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true    # чтобы в рендеринг попадали HTML теги из Markdown
 
 menu:
   main:
@@ -20,24 +24,24 @@ menu:
       title: Страница сведений о сайте и его авторе
       url: /about
       weight: 110
-      
+
     - identifier: competitions
       name: Старты
       title: Календарь моих соревнований
       url: /competitions
       weight: 100
-      
+
     - identifier: articles
       name: Очерки
       title: Очерки о стартах
       url: /articles
       weight: 90
-      
+
 sitemap:
   changefreq: monthly
   priority: 0.5
   filename: sitemap.xml
-  
+
 params:
   favicon: images/decor/favicon.png
   description: Заметки не профессионального физкультурника
