@@ -16,7 +16,7 @@ featured_image: "competitions/images/title-background.jpg"
 
 ---
 
-Календарь стартов на этот год ещё не сформирован, но когда будет – поделюсь :wink:
+Календарь стартов на летний сезон этого года ещё не сформирован, но когда будет – поделюсь :wink:
 
 &nbsp;
 
@@ -631,6 +631,7 @@ featured_image: "competitions/images/title-background.jpg"
   	<img src="images/hero-race-logo.png" title="Гонка Героев (откроется в новой вкладке)"/>
   </a>
 </div>
+
 **Дата** июнь, июль 2017 г.  
 **Локация** Новосибирск, полигон НВВКУ  
 **Тип** кросс с препятствиями  
@@ -651,6 +652,7 @@ featured_image: "competitions/images/title-background.jpg"
   	<img src="images/krasmarathon-logo.png" title="Красмарафон Жара (откроется в новой вкладке)"/>
   </a>
 </div>
+
 **Дата** 2 июля 2017  
 **Локация** Красноярск, пл. Мира  
 **Тип** шоссейный полумарафон  
@@ -668,6 +670,7 @@ featured_image: "competitions/images/title-background.jpg"
   	<img src="images/one-run-logo.png" title="ЗаБег.РФ (откроется в новой вкладке)"/>
   </a>
 </div>
+
 **Дата** 21 мая 2017 г.  
 **Локация** Новосибирск, ул. Кирова  
 **Тип** шоссейный полумарафон  
@@ -691,6 +694,7 @@ featured_image: "competitions/images/title-background.jpg"
   	<img src="images/rayevich-logo.png" title="Сибирский фестиваль бега (откроется в новой вкладке)"/>
   </a>
 </div>
+
 **Дата** 10 сентября 2016 г.  
 **Локация** Новосибирск, Красный Проспект  
 **Тип** шоссейный полумарафон  
@@ -710,6 +714,7 @@ featured_image: "competitions/images/title-background.jpg"
   	<img src="images/hero-race-logo.png" title="Гонка Героев (откроется в новой вкладке)"/>
   </a>
 </div>
+
 **Дата** 3 июля и 28 августа 2016 г.  
 **Локация** Новосибирск, полигон НВВКУ  
 **Тип** кросс с препятствиями  
