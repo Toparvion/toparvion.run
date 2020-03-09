@@ -34,6 +34,31 @@ featured_image: "competitions/images/title-background.jpg"
 
 ---
 
+## :ski: 45-ый Мемориал В. Пелеганчука
+
+<div style="float:right">
+  <a href="http://www.sportsoyuznsk.ru/nskskimarathon_2020" target="_blank">
+  	<img src="images/sport-soyuz-nsk-logo-2.png" title="Страница старта (откроется в новой вкладке)"/>
+  </a>
+</div>
+
+
+
+**Дата** [9 марта 2020 г.](https://www.strava.com/activities/3167578982)  
+**Локация** Новосибирск, л/б А. Тульского  
+**Тип** лыжный полумарафон     
+**Стиль** коньковый  
+**Дистанция** 30 км (по факту 28,5 км)  
+**Место** 42 из 99 среди мужчин  
+**Время** 1:55:14,4  
+**Изменение** на 0:10:45,6 лучше [предыдущего](#43-ski-marathon)
+
+&nbsp;
+
+
+
+## 
+
 ## :ski: Эстафета ИЯФ
 
 <div style="float:right">
@@ -352,7 +377,7 @@ featured_image: "competitions/images/title-background.jpg"
 
 
 
-## :ski: Мемориал В. Пелеганчука
+## :ski: 44-ый Мемориал В. Пелеганчука
 
 <div style="float:right">
   <a href="http://www.sportsoyuznsk.ru/nskskimarathon_2019" target="_blank">
@@ -575,7 +600,7 @@ featured_image: "competitions/images/title-background.jpg"
 
 
 
-## :ski: Мемориал В. Пелеганчука
+## :ski: 43-ий Мемориал В. Пелеганчука {#43-ski-marathon}
 
 <div style="float:right">
   <a href="http://www.sportsoyuznsk.ru/sverkhmarafon_memorial_v_peleganchuka" target="_blank">
