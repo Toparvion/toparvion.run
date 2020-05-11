@@ -17,13 +17,6 @@
   </url>
   
   <url>
-    <loc>https://toparvion.run/tags/%D0%B1%D0%B5%D0%B3/</loc>
-    <lastmod>2019-09-06T02:00:00+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://toparvion.run/articles/2019/altai-routes/</loc>
     <lastmod>2019-09-06T02:00:00+07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -32,6 +25,13 @@
   
   <url>
     <loc>https://toparvion.run/articles/</loc>
+    <lastmod>2019-09-06T02:00:00+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://toparvion.run/tags/%D0%B1%D0%B5%D0%B3/</loc>
     <lastmod>2019-09-06T02:00:00+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

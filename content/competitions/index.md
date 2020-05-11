@@ -16,7 +16,7 @@ featured_image: "competitions/images/title-background.jpg"
 
 ---
 
-Календарь стартов на летний сезон этого года ещё не сформирован, но когда будет – поделюсь :wink:
+Календарь стартов на этот сезон оказался неопределённым из-за пандемии, но когда ясность, наконец, появится, я выложу его сюда :wink:
 
 &nbsp;
 
@@ -57,7 +57,7 @@ featured_image: "competitions/images/title-background.jpg"
 
 
 
-## 
+##
 
 ## :ski: Эстафета ИЯФ
 

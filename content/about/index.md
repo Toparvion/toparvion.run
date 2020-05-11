@@ -12,5 +12,6 @@ featured_image: 'images/decor/workout-1.jpg'
 
 Спустя ещё время, я заметил, что мне интересно обмениваться спортивным опытом с другими людьми. С такой целью и был создан этот сайт – делиться физкультурными заметками, а также впечатлениями об участии в любительских стартах :medal_sports:
 
-Кроме сайта, за моими тренировками и стартами можно следить в [Strava](https://www.strava.com/athletes/toparvion).
+Кроме сайта, за моими тренировками и стартами можно следить в [Strava](https://www.strava.com/athletes/toparvion):
 
+<iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/26082931/latest-rides/6a69e6065c0b51200793cff436df6d20330ece10'></iframe>
