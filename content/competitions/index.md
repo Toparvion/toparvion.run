@@ -16,7 +16,7 @@ featured_image: "competitions/images/title-background.jpg"
 
 ---
 
-Календарь стартов на этот сезон оказался неопределённым из-за пандемии, но когда ясность, наконец, появится, я выложу его сюда :wink:
+Календарь стартов на этот сезон оказался неопределённым из-за пандемии, поэтому я наполняю его стихийно, по мере возможности :wink:
 
 &nbsp;
 
@@ -33,6 +33,30 @@ featured_image: "competitions/images/title-background.jpg"
 ## 2020
 
 ---
+
+## :running: Кросс Физкультурника
+
+<div style="float:right">
+  <a href="http://www.sportsoyuznsk.ru/kross_fizkulturnika_2020" target="_blank">
+  	<img src="images/sport-soyuz-nsk-logo.png" title="СпортСоюз (откроется в новой вкладке)"/>
+  </a>
+</div>
+
+
+
+**Дата** [23 августа 2020 г.](https://www.strava.com/activities/3952310928)  
+**Локация** Новосибирск, Заельцовский парк  
+**Тип** кросс    
+**Дистанция** 18 км (по факту 17 км)  
+**Место** 42 из 97 среди мужчин  
+**Время** 1:23:11  
+&nbsp;
+
+&nbsp;
+
+
+
+
 
 ## :ski: 45-ый Мемориал В. Пелеганчука
 
@@ -57,7 +81,7 @@ featured_image: "competitions/images/title-background.jpg"
 
 
 
-##
+
 
 ## :ski: Эстафета ИЯФ
 
@@ -227,6 +251,7 @@ featured_image: "competitions/images/title-background.jpg"
   	<img src="images/sport-soyuz-nsk-logo.png" title="СпортСоюз (откроется в новой вкладке)"/>
   </a>
 </div>
+
 
 **Дата** [10 августа 2019 г.](https://www.strava.com/activities/2605740636)  
 **Локация** Новосибирск, “Красное знамя”  

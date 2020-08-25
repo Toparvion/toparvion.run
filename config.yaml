@@ -3,12 +3,12 @@ baseURL: 'https://toparvion.run'
 languageCode: ru-ru
 languageName: Русский
 pluralizeListTitles: false
-theme: ananke-toparvion
+theme: gohugo-theme-ananke
 enableEmoji: true
 publishDir: docs
 MetaDataFormat: yaml
 DefaultContentLanguage: ru
-Paginate: 5
+Paginate: 6
 googleAnalytics: UA-140449579-1
 disqusShortname: toparvion-run
 enableRobotsTXT: true
