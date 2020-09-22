@@ -34,6 +34,28 @@ featured_image: "competitions/images/title-background.jpg"
 
 ---
 
+## :running: XXIII Полумарафон им. А. Раевича {#raevich-2020}
+
+<div style="float:right">
+  <a href="http://marafonnsk.ru/" target="_blank">
+  	<img src="images/rayevich-logo.png" title="Сибирский фестиваль бега (откроется в новой вкладке)"/>
+  </a>
+</div>
+
+**Дата** [12 сентября 2019 г.](https://www.strava.com/activities/4046520960)  
+**Локация** Новосибирск, Красный Проспект  
+**Тип** шоссейный полумарафон  
+**Дистанция** 21,1 км  
+**Время** 1:28:26  
+**Изменение** на 0:00:38 лучше [предыдущего](#raevich-2019)  
+**Место**  96 из 888 (в абсолюте)  
+
+&nbsp;
+
+
+
+
+
 ## :running: Кросс Физкультурника
 
 <div style="float:right">
@@ -41,7 +63,6 @@ featured_image: "competitions/images/title-background.jpg"
   	<img src="images/sport-soyuz-nsk-logo.png" title="СпортСоюз (откроется в новой вкладке)"/>
   </a>
 </div>
-
 
 
 **Дата** [23 августа 2020 г.](https://www.strava.com/activities/3952310928)  
@@ -53,8 +74,6 @@ featured_image: "competitions/images/title-background.jpg"
 &nbsp;
 
 &nbsp;
-
-
 
 
 
