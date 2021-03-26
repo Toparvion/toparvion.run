@@ -12,17 +12,59 @@ featured_image: "competitions/images/title-background.jpg"
 
 ------
 
-## 2020
+## 2021
 
 ---
 
-Календарь стартов на этот сезон оказался неопределённым из-за пандемии, поэтому я наполняю его стихийно, по мере возможности :wink:
+## :running: Весенний полумарафон
+
+<div style="float:right">
+  <a href="https://www.springrun.ru/" target="_blank">
+  	<img src="images/springrun-logo.png" title="Весенний полумарафон (откроется в новой вкладке)"/>
+  </a>
+</div>
+
+
+
+**Дата** 18 апреля 2021 г.   
+**Локация** Новосибирск, Академгородок  
+**Тип** шоссейный полумарафон  
+**Дистанция** 21,1 км  
+&nbsp;
 
 &nbsp;
 
 # Прошедшие старты
 
 *От недавних к давнишним*
+
+---
+
+## 2021
+
+---
+
+&nbsp;
+
+## :ski: 46-ый Мемориал В. Пелеганчука {#46-ski-marathon}
+
+<div style="float:right">
+  <a href="http://www.sportsoyuznsk.ru/nskskimarathon_2020" target="_blank">
+  	<img src="images/sport-soyuz-nsk-logo-2.png" title="Страница старта (откроется в новой вкладке)"/>
+  </a>
+</div>
+
+
+
+**Дата** [21 марта 2021 г.](https://www.strava.com/activities/4981892808)  
+**Локация** Новосибирск, л/б А. Тульского  
+**Тип** лыжный полумарафон     
+**Стиль** коньковый  
+**Дистанция** 30 км (по факту 28,5 км)  
+**Место** 38 из 81 в мужском абсолюте,  
+    3 из 6 в мужской группе *м1*  
+**Время** 1:47:27,8  
+**Изменение** на 0:7:30 лучше [предыдущего](#45-ski-marathon)
 
 &nbsp;
 
@@ -41,6 +83,7 @@ featured_image: "competitions/images/title-background.jpg"
   	<img src="images/rayevich-logo.png" title="Сибирский фестиваль бега (откроется в новой вкладке)"/>
   </a>
 </div>
+
 
 **Дата** [12 сентября 2019 г.](https://www.strava.com/activities/4046520960)  
 **Локация** Новосибирск, Красный Проспект  
@@ -77,7 +120,7 @@ featured_image: "competitions/images/title-background.jpg"
 
 
 
-## :ski: 45-ый Мемориал В. Пелеганчука
+## :ski: 45-ый Мемориал В. Пелеганчука {#45-ski-marathon}
 
 <div style="float:right">
   <a href="http://www.sportsoyuznsk.ru/nskskimarathon_2020" target="_blank">
