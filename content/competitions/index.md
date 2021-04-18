@@ -16,20 +16,20 @@ featured_image: "competitions/images/title-background.jpg"
 
 ---
 
-## :running: Весенний полумарафон
+## :running: Томский марафон &laquo;Ярче&raquo;
 
 <div style="float:right">
-  <a href="https://www.springrun.ru/" target="_blank">
-  	<img src="images/springrun-logo.png" title="Весенний полумарафон (откроется в новой вкладке)"/>
+  <a href="https://tomskmarathon.ru/" target="_blank">
+  	<img src="images/tomsk-marathon-2018-logo.png" title="Томский марафон Ярче (откроется в новой вкладке)"/>
   </a>
 </div>
 
 
 
-**Дата** 18 апреля 2021 г.   
-**Локация** Новосибирск, Академгородок  
-**Тип** шоссейный полумарафон  
-**Дистанция** 21,1 км  
+**Дата** 13 июня 2021 г.  
+**Локация** Томск  
+**Тип** шоссейный марафон  
+**Дистанция** 42,2 км  
 &nbsp;
 
 &nbsp;
@@ -43,6 +43,23 @@ featured_image: "competitions/images/title-background.jpg"
 ## 2021
 
 ---
+
+## :running: VI Весенний Полумарафон
+
+<div style="float:right">
+  <a href="https://www.springrun.ru/" target="_blank">
+  	<img src="images/springrun-logo.png" title="Весенний полумарафон (откроется в новой вкладке)"/>
+  </a>
+</div>
+
+
+
+**Дата** [18 апреля 2021 г.](https://www.strava.com/activities/5145980065)   
+**Локация** Новосибирск, Академгородок  
+**Тип** шоссейный полумарафон  
+**Дистанция** 21,1 км  
+**Место** 128/581 (в абсолюте)  
+**Время** 1:36:53  &nbsp;
 
 &nbsp;
 
