@@ -6,33 +6,7 @@ featured_image: "competitions/images/title-background.jpg"
 
 ![](images/expander.png)
 
-# Будущие старты
 
-
-
-------
-
-## 2021
-
----
-
-## :running: Томский марафон &laquo;Ярче&raquo;
-
-<div style="float:right">
-  <a href="https://tomskmarathon.ru/" target="_blank">
-  	<img src="images/tomsk-marathon-2018-logo.png" title="Томский марафон Ярче (откроется в новой вкладке)"/>
-  </a>
-</div>
-
-
-
-**Дата** 13 июня 2021 г.  
-**Локация** Томск  
-**Тип** шоссейный марафон  
-**Дистанция** 42,2 км  
-&nbsp;
-
-&nbsp;
 
 # Прошедшие старты
 
